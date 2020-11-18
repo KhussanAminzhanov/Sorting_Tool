@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/Spell checker/out/
+/Problems/Spell checker/out/production/classes/
+/Problems/The number of inversions/out/
+/Problems/The number of inversions/out/production/classes/
+/Sorting Tool/task/build/
+/Sorting Tool/task/out/
+/Sorting Tool/task/out/production/classes/
